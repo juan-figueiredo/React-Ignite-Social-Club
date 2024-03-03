@@ -1,0 +1,20 @@
+.header{
+  background-color: var(--gray-800);
+  display: flex;
+  justify-content: center;
+  padding: 1.25rem 0;
+  text-align: center;
+  align-items: center;
+}
+
+.header img{
+  height: 3rem;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.fontHeader{
+  color: var(--gray-100);
+  padding: 1rem;
+}
